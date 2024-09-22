@@ -9,5 +9,5 @@ $^{4}$ _Department of Physics and Astronomy, Universiteit Gent, B-9000 Ghent, Be
 <br>
 Corresponding author of the article: Peter Raffai, peter.raffai@ttk.elte.hu; GitHub repository: Adrienn Pataki, patakia@student.elte.hu <br>
 <br>
-The repository contains Python code with the required input files for fitting coasting coasting models and the flat ΛCDM model to the SNIa and QSO databases. <br>
+The repository contains Python code with the required input files for fitting coasting cosmological models and the flat ΛCDM model to the SNIa and QSO databases. <br>
 Refer to the codes for detailed descriptions and instructions.
